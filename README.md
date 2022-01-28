@@ -1,10 +1,30 @@
- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+  <h1 align="center">
+Hi, I'm Shubham Singh!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+ <!--<img src="https://komarev.com/ghpvc/?username=yashitanamdeo&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="yashitanamdeo" />-->
+  
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hacker;Programmer;Freelancer; Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+<hr/>
+<br>
+
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 <!-- <h3> नमस्ते (Namaste)🙏🏻, I am Shubham Singh 👋</h3> -->
 ### नमस्ते (Namaste)🙏🏻, I am Shubham Singh 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Shubhamsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Shubhamsingh-98/)](https://www.linkedin.com/in/Shubhamsingh-98?)
+ <br>
+
+ [![Linkedin Badge](https://img.shields.io/badge/-Shubhamsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Shubhamsingh-98/)](https://www.linkedin.com/in/Shubhamsingh-98?)
 [![Gmail Badge](https://img.shields.io/badge/-Shubhamsingh.98@pm.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Shubhamsingh.98@pm.me)](mailto:Shubhamsingh.98@pm.me) 
 
+<br>
+<samp>
+ <b>I'm a Cyber Security Analyst and a Hacker with an Ethical Mindset.I have helped companies secure themselves as a freelancer. I have 1+ years of experience in Web Application Security, Vulnerability Assessment and Penetration Testing and excellent proficiency in some of the best tools like Burpsuite, Acunetix.</b>
+</samp>
+<br>
+<br>
 
 - 🎯 Portfolio website: [Portfolio](https://Shubhhaamsingh.github.io/Portfolio1)
 - 💬 Ask me about anything, I am happy to help :smile:
@@ -21,22 +41,29 @@
 
 <br>
 <br>
+<br>
 
 ### Things I love:
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Cyber Security ✍️
 - Hacking  ✍️  
-
-
- 
-
+<br>
+<!-- https://github.com/sisodiya2421 -->
+## 🙋‍♀️ Let's Connect
+<p align="center">
+	<a href="https://Shubhhaamsingh.github.io/Portfolio/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="https://github.com/Shubhhaamsingh" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/shubhamsingh-98/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/Shubhhaamsingh/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="mailto:Shubham0000189@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+</p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamsingh&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
  
- Support:
-https://www.buymeacoffee.com/Shubhhaamsingh
+  Support : 
 
+<a href="https://www.buymeacoffee.com/Shubhhaamsingh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <!--[website]: -->
 [linkedin]: https://www.linkedin.com/in/Shubhamsingh-98
  
