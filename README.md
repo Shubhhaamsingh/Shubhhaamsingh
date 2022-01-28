@@ -33,6 +33,10 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamsingh&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+ 
+ Support:
+https://www.buymeacoffee.com/Shubhhaamsingh
 
 <!--[website]: -->
 [linkedin]: https://www.linkedin.com/in/Shubhamsingh-98
+ 
