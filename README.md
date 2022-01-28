@@ -4,10 +4,6 @@ Hi, I'm Shubham Singh!
  <!--<img src="https://komarev.com/ghpvc/?username=yashitanamdeo&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="yashitanamdeo" />-->
   
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hacker;Programmer;Freelancer; Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-<hr/>
 <br>
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
