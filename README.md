@@ -17,10 +17,16 @@ Hi, I'm Shubham Singh!
 
 <br>
 <samp>
- <b>I'm a Cyber Security Analyst and a Hacker with an Ethical Mindset.I have helped companies secure themselves as a freelancer. I have 1+ years of experience in Web Application Security, Vulnerability Assessment and Penetration Testing and excellent proficiency in some of the best tools like Burpsuite, Acunetix.</b>
+ <b> Hello! My name is Shubham SIngh and I enjoy developing products that live on the internet and find its purpose among millions of massess. My interest is in Cyber Security and Coding.I love working on things which interests me and help grow myself as a professional . My main focus these days is learning new tech-stacks and thereby implementing and building accessible, inclusive software products and digital experiences at Media.net for a variety of clients.</b>
 </samp>
 <br>
 <br>
+## I'm an Indian 🇮🇳, A Programmer, Hacker, Freelancer..!🙌
+
+- 🔥  I’m a Cyber Security enthusiast and currently all into Programming. 🧡
+- 💬 Ask me about Cyber Security, Python , career or technology advice.. 🙌
+- 👯 I’m looking to collaborate with other Python pair programmer .
+- ⚡ Fun fact: I think, I am in Love with Python.
 
 - 🎯 Portfolio website: [Portfolio](https://Shubhhaamsingh.github.io/Portfolio1)
 - 💬 Ask me about anything, I am happy to help :smile:
