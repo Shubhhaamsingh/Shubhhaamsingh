@@ -17,18 +17,18 @@ Hi, I'm Shubham Singh!
 
 <br>
 <samp>
- <b> Hello! My name is Shubham SIngh and I enjoy developing products that live on the internet and find its purpose among millions of massess. My interest is in Cyber Security and Coding.I love working on things which interests me and help grow myself as a professional . My main focus these days is learning new tech-stacks and thereby implementing and building accessible, inclusive software products and digital experiences at Media.net for a variety of clients.</b>
+ <b> Hello! My name is Shubham Singh and I enjoy developing products that live on the internet and find its purpose among millions of massess. My interest is in Web Developer & Cyber Security and Coding.I love working on things which interests me and help grow myself as a professional . My main focus these days is learning new tech-stacks and thereby implementing and building accessible, inclusive software products and digital experiences at Media.net for a variety of clients.</b>
 </samp>
 <br>
 <br>
 ## I'm an Indian 🇮🇳, A Programmer, Hacker, Freelancer..!🙌
 
-- 🔥  I’m a Cyber Security enthusiast and currently all into Programming. 🧡
-- 💬 Ask me about Cyber Security, Python , career or technology advice.. 🙌
-- 👯 I’m looking to collaborate with other Python pair programmer .
-- ⚡ Fun fact: I think, I am in Love with Python.
+- 🔥  I’m Dveloper & Cyber Security enthusiast and currently all into Programming. 🧡
+- 💬 Ask me about Programming, Cyber Security, Python , career or technology advice.. 🙌
+- 👯 I’m looking to collaborate with other Python, Javascript programmer .
+- ⚡ Fun fact: I think, I am in Love with Python & Javascript.
 
-- 🎯 Portfolio website: [Portfolio](https://Shubhhaamsingh.github.io/Portfolio1)
+ 
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
@@ -47,8 +47,9 @@ Hi, I'm Shubham Singh!
 
 ### Things I love:
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Javascript 
 - Cyber Security ✍️
-- Hacking  ✍️  
+  
 <br>
 <!-- https://github.com/sisodiya2421 -->
 
