@@ -13,8 +13,6 @@ My tech stack - Docker, Django, DjangoRestFramework, Postgresql, Python, AWS, Je
 
 If you have an application you are interested in developing or a problem that needs solving feel free to get in touch.
 
-<br>
-<br>
 
 ### Skills and Experience
 
