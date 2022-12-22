@@ -3,11 +3,10 @@ Hi, I'm <a href = https://Shubham.github.io/> Shubham Singh</a>
   </h1>
   Full Stack Developer focused on Python/Django and DevOps, Have serious passion for creating intuitive and dynamic user experiences. Fueled by high energy levels and boundless enthusiasm I like to keep learning, continue challenging myself, and do interesting things that matter.
 
-My tech stack
-Programming 
+-- Programming 
 - Python, JavaScript
 
-FrameWorks
+-- FrameWorks
 - Django, Django RESTAPI, React.js
 
 Database
@@ -17,7 +16,7 @@ Platform
 - AWS, Ansible, Jenkins
 - Docker, Kubernetes
 - Git & GitHub
-
+<br>
 - 🔭 I’m currently working on a my project
 - 🌱 I’m currently learning clean architecture
 - 📫 How to reach me: <a href = https://mail.google.com/mail/>`Shubhamsingh.98@pm.me`</a>
