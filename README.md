@@ -3,7 +3,7 @@
 Hi, I'm <a href ="https://github.com/Shubhhaamsingh">Shubham Singh</a>, a Full Stack Developer focused on Python/Django and DevOps, Have serious passion for creating intuitive and dynamic user experiences. Fueled by high energy levels and boundless enthusiasm I like to keep learning, continue challenging myself, and do interesting things that matter.
 <br>
 
-- 📫 How to reach me: <a href = https://mail.google.com/mail/>`Shubhamsingh.98@pm.me`</a>
+- 📫 How to reach me: <a href = https://mail.google.com/mail/>`Shubhhaamsingh@gamil.com`</a>
   <img align="right" width="450px" alt="GIF" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
 
 ## Skills
@@ -30,11 +30,11 @@ Hi, I'm <a href ="https://github.com/Shubhhaamsingh">Shubham Singh</a>, a Full S
 🙋‍♀️ Let's Connect
 
 <p align="center">
-	<a href="https://Shubhhaamsingh.github.io/Portfolio1/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="https://Shubhhaamsingh.github.io/Portfolio/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
 	<a href="https://github.com/Shubhhaamsingh" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/shubhamsingh-98/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/Shubhhaamsingh/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="mailto:Shubham0000189@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="mailto:Shubhhaamsingh@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamsingh&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <div align="center">
