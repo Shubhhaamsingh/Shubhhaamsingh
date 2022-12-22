@@ -4,19 +4,22 @@ Hi, I'm <a href = https://Shubham.github.io/> Shubham Singh</a>
   Full Stack Developer focused on Python/Django and DevOps, Have serious passion for creating intuitive and dynamic user experiences. Fueled by high energy levels and boundless enthusiasm I like to keep learning, continue challenging myself, and do interesting things that matter.
 
 - Programming 
-- <br>
+<br>
 ``` Python, JavaScript```
 
--- FrameWorks
-- Django, Django RESTAPI, React.js
+- FrameWorks
+- <br>
+``` Django, Django RESTAPI, React.js ```
 
-Database
-- PostgreSQL
+- Database
+<br>
+``` PostgreSQL ```
 
-Platform
-- AWS, Ansible, Jenkins
-- Docker, Kubernetes
-- Git & GitHub
+- Platform
+<br>
+`` AWS, Ansible, Jenkins
+Docker, Kubernetes
+Git & GitHub ```
 <br>
 - 🔭 I’m currently working on a my project
 - 🌱 I’m currently learning clean architecture
