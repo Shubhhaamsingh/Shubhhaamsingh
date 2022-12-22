@@ -3,8 +3,8 @@ Hi, I'm <a href = https://Shubham.github.io/> Shubham Singh</a>
   </h1>
   Full Stack Developer focused on Python/Django and DevOps, Have serious passion for creating intuitive and dynamic user experiences. Fueled by high energy levels and boundless enthusiasm I like to keep learning, continue challenging myself, and do interesting things that matter.
 
--- Programming 
-- Python, JavaScript
+-Programming 
+``` Python, JavaScript```
 
 -- FrameWorks
 - Django, Django RESTAPI, React.js
