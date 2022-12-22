@@ -1,40 +1,32 @@
-<h1 align="center">
-Hi, I'm <a href = https://Shubham.github.io/> Shubham Singh</a>
-  </h1>
-  Full Stack Developer focused on Python/Django and DevOps, Have serious passion for creating intuitive and dynamic user experiences. Fueled by high energy levels and boundless enthusiasm I like to keep learning, continue challenging myself, and do interesting things that matter.
-- Programming 
-<br>
-``` Python, JavaScript```
+  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-- FrameWorks
+Hi, I'm <a href ="https://github.com/Shubhhaamsingh">Shubham Singh</a>, a Full Stack Developer focused on Python/Django and DevOps, Have serious passion for creating intuitive and dynamic user experiences. Fueled by high energy levels and boundless enthusiasm I like to keep learning, continue challenging myself, and do interesting things that matter.
 <br>
-``` Django, Django RESTAPI, React.js ```
 
-- Database
-<br>
-``` PostgreSQL ```
-- Platform
-<br>
-`` AWS, Ansible, Jenkins
-Docker, Kubernetes
-Git & GitHub ```
-<br>
-- 🔭 I’m currently working on a my project
-- 🌱 I’m currently learning clean architecture
 - 📫 How to reach me: <a href = https://mail.google.com/mail/>`Shubhamsingh.98@pm.me`</a>
+  <img align="right" width="450px" alt="GIF" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
 
-If you have an application you are interested in developing or a problem that needs solving feel free to get in touch.
+## Skills
 
+### Programming
 
-### Skills and Experience
+- Python, JavaScript
 
-- Python
-- DevOps
-- Boxing and Travelling
+### Frameworks
+
+- Django, Django RESTAPI, React.js
+
+### Database
+
+- PostgreSQL
+
+### Platform
+
+- AWS, Ansible, Jenkins
+- Docker, kubernetes
+- Git & GitHub
 
 <br>
-<!-- https://github.com/sisodiya2421 -->
-
 🙋‍♀️ Let's Connect
 
 <p align="center">
